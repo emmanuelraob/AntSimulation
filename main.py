@@ -1,6 +1,4 @@
-import init
+# En caso de necesitar verificar todas las dependencias del proyecto
+    #import installDependencies
+    #installDependencies
 
-if __name__ == "__main__":
-    print("Inicializando el proyecto...")
-    # Aquí puedes añadir la lógica principal, como los procesos
-    print("Todo está listo para la simulación.")
